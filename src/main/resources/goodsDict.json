@@ -1,0 +1,6 @@
+[
+    {"id":"ITEM000001","name":"Apple","price":5,"unit":"½ï"},
+    {"id":"ITEM000002","name":"Orange","price":10,"unit":"½ï"},
+    {"id":"ITEM000003","name":"Banana","price":6,"unit":"½ï"},
+    {"id":"ITEM000005","name":"Cocacola","price":2.5,"unit":"Æ¿"}
+]

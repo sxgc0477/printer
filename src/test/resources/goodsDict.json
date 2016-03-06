@@ -1,0 +1,6 @@
+[
+    {'ITEM000001':{"name":"Apple","price":5}},
+    {'ITEM000002':{"name":"Orange","price":10}},
+    {'ITEM000003':{"name":"Banana","price":6}},
+    {'ITEM000005':{"name":"Cocacola","price":2}}
+]
